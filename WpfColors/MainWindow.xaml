@@ -1,0 +1,14 @@
+﻿<Window x:Class="WpfColors.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:Examples="clr-namespace:WpfColors.Examples" Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <TabControl>
+            <TabItem Header="Lighten Color">
+                <Examples:LightenColorExample />
+            </TabItem>
+            <TabItem Header="Inverse / Complementary Color">
+                <Examples:Inverse_ComplementaryExample />
+            </TabItem>
+        </TabControl>
+    </Grid>
+</Window>

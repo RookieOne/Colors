@@ -1,0 +1,8 @@
+C:\Projects\Colors\Colors.Tests\bin\Debug\Colors.Tests.dll
+C:\Projects\Colors\Colors.Tests\bin\Debug\Colors.Tests.pdb
+C:\Projects\Colors\Colors.Tests\bin\Debug\Colors.dll
+C:\Projects\Colors\Colors.Tests\bin\Debug\nunit.framework.dll
+C:\Projects\Colors\Colors.Tests\bin\Debug\Colors.pdb
+C:\Projects\Colors\Colors.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Colors\Colors.Tests\obj\Debug\Colors.Tests.dll
+C:\Projects\Colors\Colors.Tests\obj\Debug\Colors.Tests.pdb

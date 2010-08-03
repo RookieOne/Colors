@@ -1,0 +1,5 @@
+<Modules>
+  <Module PersistentId="0A2A0758-9C9A-4E55-9650-C459D3759F3B" ModuleId="WpfColors" />
+  <Module PersistentId="514C0CDD-5D7A-4502-A758-23EE0CF33504" ModuleId="Colors" />
+  <Module PersistentId="D4EB60FB-FB70-4543-B2AE-9E1E7A570201" ModuleId="Colors.Tests" />
+</Modules>

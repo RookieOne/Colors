@@ -1,0 +1,41 @@
+﻿<UserControl x:Class="WpfColors.Examples.Inverse_ComplementaryExample"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:Colors="clr-namespace:Colors;assembly=Colors" mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="300">
+    <UserControl.Resources>
+
+        <Color x:Key="color1" A="255" R="100" G="50" B="200" />
+        <Color x:Key="color2" A="255" R="10" G="150" B="20" />
+
+        <SolidColorBrush x:Key="color1Brush" Color="{StaticResource color1}" />
+        <SolidColorBrush x:Key="color2Brush" Color="{StaticResource color2}" />
+
+        
+        <Style TargetType="StackPanel">
+            <Setter Property="TextElement.FontSize" Value="20" />
+        </Style>
+    </UserControl.Resources>
+
+    <StackPanel>
+
+        <Label Content="Inverse Color Example" />
+
+        <TextBlock Text="Example of Inverse Color as background" 
+                                   Foreground="{StaticResource color1Brush}"
+                                   Background="{Colors:InverseColorMarkupExtension Of={StaticResource color1}, As=Brush}" />
+        <TextBlock Text="Example of Inverse Color as foreground" 
+                                   Foreground="{Colors:InverseColorMarkupExtension Of={StaticResource color2}, As=Brush}"
+                                   Background="{StaticResource color2Brush}" />
+
+        <Label Content="Complementary Color Example" />
+        <TextBlock Text="Example of Complementary Color as background" 
+                                   Foreground="{StaticResource color1Brush}"
+                                   Background="{Colors:ComplementaryColorMarkupExtension Of={StaticResource color1}, As=Brush}" />
+        <TextBlock Text="Example of Complementary Color as foreground" 
+                                   Foreground="{Colors:ComplementaryColorMarkupExtension Of={StaticResource color2}, As=Brush}"
+                                   Background="{StaticResource color2Brush}" />
+
+    </StackPanel>
+</UserControl>

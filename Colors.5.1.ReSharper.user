@@ -1,0 +1,76 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="0A2A0758-9C9A-4E55-9650-C459D3759F3B/f:MainWindow.xaml.cs" caret="262" fromTop="10" />
+      <File id="d:Miscellaneous Files/f:LightenColorExtension.cs/l:C!?Projects?SemanticXaml?SemanticXaml?Colors?LightenColorExtension.cs" caret="3389" fromTop="25" />
+      <File id="d:Miscellaneous Files/f:InverseColorExtensions.cs/l:C!?Projects?SemanticXaml?SemanticXaml?Colors?InverseColorExtensions.cs" caret="727" fromTop="23" />
+      <File id="d:Miscellaneous Files/f:LightenColorExample.xaml/l:C!?Projects?SemanticXaml?SemanticXaml.Examples?Colors?LightenColorExample.xaml" caret="696" fromTop="9" />
+      <File id="d:Miscellaneous Files/f:InverseColorExample.xaml/l:C!?Projects?SemanticXaml?SemanticXaml.Examples?Colors?InverseColorExample.xaml" caret="322" fromTop="4" />
+      <File id="0A2A0758-9C9A-4E55-9650-C459D3759F3B/f:MainWindow.xaml" caret="544" fromTop="8" />
+      <File id="514C0CDD-5D7A-4502-A758-23EE0CF33504/f:InverseColorExtension.cs" caret="0" fromTop="0" />
+      <File id="d:Miscellaneous Files/f:InverseColorMarkupExtension.cs/l:C!?Projects?SemanticXaml?SemanticXaml?Colors?InverseColorMarkupExtension.cs" caret="181" fromTop="4" />
+      <File id="0A2A0758-9C9A-4E55-9650-C459D3759F3B/d:Examples/f:LightenColorExample.xaml" caret="1017" fromTop="7" />
+      <File id="514C0CDD-5D7A-4502-A758-23EE0CF33504/f:LightenColor.cs" caret="121" fromTop="5" />
+      <File id="514C0CDD-5D7A-4502-A758-23EE0CF33504/f:InverseColorMarkupExtension.cs" caret="141" fromTop="5" />
+      <File id="514C0CDD-5D7A-4502-A758-23EE0CF33504/f:ComplementaryColorMarkupExtension.cs" caret="211" fromTop="7" />
+      <File id="0A2A0758-9C9A-4E55-9650-C459D3759F3B/d:Examples/f:Inverse_ComplementaryExample.xaml" caret="664" fromTop="2" />
+      <File id="D4EB60FB-FB70-4543-B2AE-9E1E7A570201/f:inverse_color.cs" caret="202" fromTop="9" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="0A2A0758-9C9A-4E55-9650-C459D3759F3B/f:MainWindow.xaml.cs" caret="44" fromTop="1" />
+      <File id="d:Miscellaneous Files/f:LightenColorExtension.cs/l:C!?Projects?SemanticXaml?SemanticXaml?Colors?LightenColorExtension.cs" caret="3398" fromTop="25" />
+      <File id="d:Miscellaneous Files/f:InverseColorExtensions.cs/l:C!?Projects?SemanticXaml?SemanticXaml?Colors?InverseColorExtensions.cs" caret="736" fromTop="23" />
+      <File id="0A2A0758-9C9A-4E55-9650-C459D3759F3B/d:Examples/f:LightenColorExample.xaml" caret="600" fromTop="7" />
+      <File id="0A2A0758-9C9A-4E55-9650-C459D3759F3B/d:Examples/f:LightenColorExample.xaml" caret="1566" fromTop="7" />
+      <File id="0A2A0758-9C9A-4E55-9650-C459D3759F3B/d:Examples/f:LightenColorExample.xaml" caret="1337" fromTop="2" />
+      <File id="0A2A0758-9C9A-4E55-9650-C459D3759F3B/d:Examples/f:LightenColorExample.xaml" caret="1795" fromTop="12" />
+      <File id="0A2A0758-9C9A-4E55-9650-C459D3759F3B/d:Examples/f:LightenColorExample.xaml" caret="2023" fromTop="5" />
+      <File id="0A2A0758-9C9A-4E55-9650-C459D3759F3B/d:Examples/f:LightenColorExample.xaml" caret="2253" fromTop="10" />
+      <File id="0A2A0758-9C9A-4E55-9650-C459D3759F3B/d:Examples/f:LightenColorExample.xaml" caret="2483" fromTop="15" />
+      <File id="0A2A0758-9C9A-4E55-9650-C459D3759F3B/d:Examples/f:LightenColorExample.xaml" caret="3565" fromTop="4" />
+      <File id="0A2A0758-9C9A-4E55-9650-C459D3759F3B/d:Examples/f:LightenColorExample.xaml" caret="972" fromTop="4" />
+      <File id="0A2A0758-9C9A-4E55-9650-C459D3759F3B/d:Examples/f:LightenColorExample.xaml" caret="1096" fromTop="9" />
+      <File id="0A2A0758-9C9A-4E55-9650-C459D3759F3B/d:Examples/f:LightenColorExample.xaml" caret="399" fromTop="4" />
+      <File id="0A2A0758-9C9A-4E55-9650-C459D3759F3B/d:Examples/f:Inverse_ComplementaryExample.xaml" caret="508" fromTop="6" />
+      <File id="0A2A0758-9C9A-4E55-9650-C459D3759F3B/f:MainWindow.xaml" caret="544" fromTop="8" />
+      <File id="514C0CDD-5D7A-4502-A758-23EE0CF33504/f:InverseColorMarkupExtension.cs" caret="565" fromTop="18" />
+      <File id="0A2A0758-9C9A-4E55-9650-C459D3759F3B/d:Examples/f:Inverse_ComplementaryExample.xaml" caret="1017" fromTop="7" />
+      <File id="0A2A0758-9C9A-4E55-9650-C459D3759F3B/d:Examples/f:Inverse_ComplementaryExample.xaml" caret="950" fromTop="7" />
+      <File id="0A2A0758-9C9A-4E55-9650-C459D3759F3B/d:Examples/f:Inverse_ComplementaryExample.xaml" caret="2240" fromTop="17" />
+      <File id="0A2A0758-9C9A-4E55-9650-C459D3759F3B/d:Examples/f:Inverse_ComplementaryExample.xaml" caret="2008" fromTop="15" />
+      <File id="514C0CDD-5D7A-4502-A758-23EE0CF33504/f:ComplementaryColorMarkupExtension.cs" caret="517" fromTop="18" />
+      <File id="514C0CDD-5D7A-4502-A758-23EE0CF33504/f:ComplementaryColorMarkupExtension.cs" caret="505" fromTop="14" />
+      <File id="514C0CDD-5D7A-4502-A758-23EE0CF33504/f:LightenColor.cs" caret="121" fromTop="5" />
+      <File id="0A2A0758-9C9A-4E55-9650-C459D3759F3B/d:Examples/f:Inverse_ComplementaryExample.xaml" caret="2105" fromTop="17" />
+      <File id="514C0CDD-5D7A-4502-A758-23EE0CF33504/f:InverseColorMarkupExtension.cs" caret="126" fromTop="5" />
+      <File id="514C0CDD-5D7A-4502-A758-23EE0CF33504/f:ComplementaryColorMarkupExtension.cs" caret="121" fromTop="5" />
+      <File id="D4EB60FB-FB70-4543-B2AE-9E1E7A570201/f:inverse_color.cs" caret="202" fromTop="9" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="Of" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Media.Color">
+      <Item value="GetComplementary`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
